@@ -13,11 +13,10 @@ I received my MS degree in Industrial and Systems Engineering from Korea Advance
 
 Email: hk3181 [at] columbia.edu
 
-Publications
-======
+# Publications
 ## Under Review
 1. [Fair Fares for Vehicle Sharing Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4699813)  
-Adam N. Elmachtoub and **Hyemi Kim** ($$\alpha - \beta$$)
+Adam N. Elmachtoub and **Hyemi Kim** $$(\alpha-\beta)$$
 
 ## Journal
 1. [Black-Box EM Algorithm for Estimating Latent States of High-Speed Vehicles](https://arc.aiaa.org/doi/10.2514/1.I010831)  
