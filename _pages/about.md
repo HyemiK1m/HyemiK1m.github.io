@@ -11,6 +11,8 @@ I am a fourth-year Ph.D. student in the Department of Industrial Engineering and
 
 I received my MS degree in Industrial and Systems Engineering from Korea Advanced Institute of Science and Technology (KAIST) where I was advised by Prof. [Il-Chul Moon](https://aai.kaist.ac.kr/). Prior to that, I received my BS degree in Industrial and Systems Engineering and Electrical Engineering from KAIST.
 
+Email: hk3181 [at] columbia.edu
+
 Publications
 ======
 ## Under Review
