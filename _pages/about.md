@@ -19,18 +19,18 @@ Adam N. Elmachtoub and **Hyemi Kim** ($\alpha$-$\beta$)
 
 ## Journal
 1. [Black-Box EM Algorithm for Estimating Latent States of High-Speed Vehicles](https://arc.aiaa.org/doi/10.2514/1.I010831)
-Yoon-Yeong Kim, **Hyemi Kim**, WonSung Lee, Han-Lim Choi, Il-Chul Moon
+Yoon-Yeong Kim, **Hyemi Kim**, WonSung Lee, Han-Lim Choi, Il-Chul Moon  
 __American Institute of Aeronautics and Astronautics.__
 
 ## Conference
 1. [Counterfactual Fairness with Disentangled Causal Effect Variational Autoencoder](https://cdn.aaai.org/ojs/16990/16990-13-20484-1-2-20210518.pdf) [code](https://github.com/HyemiK1m/DCEVAE)
-**Hyemi Kim**, Seungjae Shin, JoonHo Jang, Kyungwoo Song, Weonyoung Joo, Wanmo Kang, Il-Chul Moon
+**Hyemi Kim**, Seungjae Shin, JoonHo Jang, Kyungwoo Song, Weonyoung Joo, Wanmo Kang, Il-Chul Moon  
 _Association for the Advancement of Artificial Intelligence 2021._
  
 1. [Neutralizing Gender Bias in Word Embedding with Latent Disentanglement and Counterfactual Generation](https://aclanthology.org/2020.findings-emnlp.280.pdf)
-Seungjae Shin, Kyungwoo Song, Joonho Jang, **Hyemi Kim**, Weonyoung Joo, Il-Chul Moon
+Seungjae Shin, Kyungwoo Song, Joonho Jang, **Hyemi Kim**, Weonyoung Joo, Il-Chul Moon  
 _Findings of Empirical Methods in Natural Language Processing (Findings of EMNLP) 2020._
  
 1. [Deep Generative Positive-Unlabeled Learning under Selection Bias.](https://dl.acm.org/doi/pdf/10.1145/3340531.3411971)
-ByeongHu Na, **Hyemi Kim**, Kyungwoo Song, Weonyoung Joo, Yoonyeong Kim, Il-Chul Moon
+ByeongHu Na, **Hyemi Kim**, Kyungwoo Song, Weonyoung Joo, Yoonyeong Kim, Il-Chul Moon  
 _Conference on Information and Knowledge Management (CIKM) 2020._
