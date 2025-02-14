@@ -13,17 +13,17 @@ I received my MS degree in Industrial and Systems Engineering from Korea Advance
 
 Email: hk3181 [at] columbia.edu
 
-# Publications
-## Under Review
+## Publications
+### Under Review
 1. [Fair Fares for Vehicle Sharing Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4699813)  
 Adam N. Elmachtoub and **Hyemi Kim** $$(\alpha-\beta)$$
 
-## Journal
+### Journal
 1. [Black-Box EM Algorithm for Estimating Latent States of High-Speed Vehicles](https://arc.aiaa.org/doi/10.2514/1.I010831)  
 Yoon-Yeong Kim, **Hyemi Kim**, WonSung Lee, Han-Lim Choi, Il-Chul Moon  
 __American Institute of Aeronautics and Astronautics.__
 
-## Conference
+### Conference
 1. [Counterfactual Fairness with Disentangled Causal Effect Variational Autoencoder](https://cdn.aaai.org/ojs/16990/16990-13-20484-1-2-20210518.pdf) [code](https://github.com/HyemiK1m/DCEVAE)  
 **Hyemi Kim**, Seungjae Shin, JoonHo Jang, Kyungwoo Song, Weonyoung Joo, Wanmo Kang, Il-Chul Moon  
 _Association for the Advancement of Artificial Intelligence 2021._
